@@ -4,8 +4,7 @@
 
 try:
     entered_string = input("Enter string: ")
-    letters = 0
-    digits = 0
+    letters, digits = 0, 0
 
     for char in entered_string:
         if char.isalpha():
