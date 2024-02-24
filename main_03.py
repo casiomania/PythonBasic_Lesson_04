@@ -1,4 +1,4 @@
-# Lesson 4 / Homework 3
+# Lesson 04 / Homework 03
 # The user enters a string, a word to search for, and a word to replace from the keyboard.
 # Replace one word in the string with another. The resulting string is displayed on the screen.
 
@@ -18,4 +18,4 @@ except ValueError as error:
     print("Error:", error)
 
 except Exception as error:
-    print("An error occurred:", error)
+    print("Error:", error)

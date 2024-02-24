@@ -1,4 +1,4 @@
-# Lesson 4 / Homework 1
+# Lesson 04 / Homework 01
 # The user enters a string from the keyboard.
 # Count the number of letters and digits in the string. Display both numbers on the screen (use a loop).
 
